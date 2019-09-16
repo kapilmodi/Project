@@ -1,5 +1,5 @@
-[submodule "SupplyChain-Blockchain"]
-	path = SupplyChain
+[submodule "SupplyChain"]
+	path = SupplyChain-Blockchain
 	url = https://github.com/kapilmodi/SupplyChain-Blockchain.git
 [submodule "Jenkins"]
 	path = Jenkins
