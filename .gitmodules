@@ -1,6 +1,0 @@
-[submodule "SupplyChain"]
-	path = SupplyChain-Blockchain
-	url = https://github.com/kapilmodi/SupplyChain-Blockchain.git
-[submodule "Jenkins"]
-	path = Jenkins
-	url = https://github.com/kapilmodi/Jenkins.git
